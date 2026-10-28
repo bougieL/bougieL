@@ -9,10 +9,10 @@
 | 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 28 |
 | 👥 Followers | 55 | 👤 Following | 31 |
 | 📦 公开仓库 | 41 | 🔀 Fork | 16 |
-| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 562 |
+| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 564 |
 | 🚀 PR 总数 | 180 | ✅ 已合并 | 100 |
-| 📝 近一年提交 | 97 | 🎯 贡献仓库 | 7 |
-| 🔥 当前连续 | 19 天 | 🏅 最长连续 | 19 天 |
+| 📝 近一年提交 | 99 | 🎯 贡献仓库 | 7 |
+| 🔥 当前连续 | 20 天 | 🏅 最长连续 | 20 天 |
 | 📝 博客 | [bougiel.github.io](https://bougiel.github.io) | 📫 邮箱 | bougie.liu@qq.com |
 
 <!--START_SECTION:activity-->
@@ -87,8 +87,8 @@ Batchfile    0.0%  ▏
 | 🧩 | [utools-plugin-sprite](https://github.com/bougieL/utools-plugin-sprite) | JavaScript | 1 | 2019-05-07 |
 | ⚡ | [vuepress-plugin-amp](https://github.com/bougieL/vuepress-plugin-amp) | — | 1 | 2019-12-05 |
 | 🧰 | [bougie-utils](https://github.com/bougieL/bougie-utils) | TypeScript | 0 | 2022-12-11 |
-| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-10-26 |
-| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-10-26 |
+| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-10-27 |
+| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-10-27 |
 | 🖌 | [bvas](https://github.com/bougieL/bvas) | JavaScript | 0 | 2018-07-06 |
 | ☁️ | [cos](https://github.com/bougieL/cos) | TypeScript | 0 | 2022-12-10 |
 | 📱 | [golearning_app](https://github.com/bougieL/golearning_app) | CSS | 0 | 2019-02-25 |
