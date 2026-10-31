@@ -9,10 +9,10 @@
 | 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 28 |
 | 👥 Followers | 55 | 👤 Following | 31 |
 | 📦 公开仓库 | 49 | 🔀 Fork | 24 |
-| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 582 |
+| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 584 |
 | 🚀 PR 总数 | 185 | ✅ 已合并 | 101 |
-| 📝 近一年提交 | 104 | 🎯 贡献仓库 | 8 |
-| 🔥 当前连续 | 22 天 | 🏅 最长连续 | 22 天 |
+| 📝 近一年提交 | 106 | 🎯 贡献仓库 | 8 |
+| 🔥 当前连续 | 23 天 | 🏅 最长连续 | 23 天 |
 | 📝 博客 | [bougiel.github.io](https://bougiel.github.io) | 📫 邮箱 | bougie.liu@qq.com |
 
 <!--START_SECTION:activity-->
@@ -21,32 +21,32 @@
 全部 push（UTC+8）：
 
 ```text
-03时  27  ███████████████████████████  ← 博客 CI
+03时  27  ████████████████████████  ← 博客 CI
 04时   1  █  ← 博客 CI
 08时   1  █  ← 博客 CI
 09时   1  █
-19时   6  ██████
+19时   7  ██████
 22时   1  █
 ```
 
 剔除博客 CI 后的真人提交：
 
 ```text
-09时   1  ████
-19时   6  ████████████████████████
-22时   1  ████
+09时   1  ███
+19时   7  ████████████████████████
+22时   1  ███
 ```
 
 真人提交按星期（UTC+8）：
 
 ```text
-Monday     1  ████████
-Tuesday    1  ████████
-Wednesday  2  ████████████████
-Thursday   1  ████████
-Friday     0  ░░░░░░░░░░░░░░░░
-Saturday   1  ████████
-Sunday     2  ████████████████
+Monday     1  ████████████
+Tuesday    1  ████████████
+Wednesday  2  ████████████████████████
+Thursday   2  ████████████████████████
+Friday     0  ░░░░░░░░░░░░
+Saturday   1  ████████████
+Sunday     2  ████████████████████████
 ```
 <!--END_SECTION:activity-->
 
@@ -79,14 +79,14 @@ Batchfile    0.0%  ▏
 | 🐹 | [golearning](https://github.com/bougieL/golearning) | Go | 2 | 2019-02-25 |
 | 🗺 | [mymap](https://github.com/bougieL/mymap) | JavaScript | 2 | 2018-05-05 |
 | 🎨 | [canvasgallery](https://github.com/bougieL/canvasgallery) | HTML | 1 | 2018-06-25 |
-| 💬 | [chat-agent-releases](https://github.com/bougieL/chat-agent-releases) | — | 1 | 2026-10-29 |
+| 💬 | [chat-agent-releases](https://github.com/bougieL/chat-agent-releases) | — | 1 | 2026-10-30 |
 | 🗜 | [imagemin-sharp](https://github.com/bougieL/imagemin-sharp) | JavaScript | 1 | 2022-04-28 |
 | 🖼 | [puppeteer-prerenderer](https://github.com/bougieL/puppeteer-prerenderer) | TypeScript | 1 | 2022-12-10 |
 | 🧩 | [utools-plugin-sprite](https://github.com/bougieL/utools-plugin-sprite) | JavaScript | 1 | 2019-05-07 |
 | ⚡ | [vuepress-plugin-amp](https://github.com/bougieL/vuepress-plugin-amp) | — | 1 | 2019-12-05 |
 | 🧰 | [bougie-utils](https://github.com/bougieL/bougie-utils) | TypeScript | 0 | 2022-12-11 |
-| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-10-29 |
-| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-10-29 |
+| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-10-30 |
+| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-10-30 |
 | 🖌 | [bvas](https://github.com/bougieL/bvas) | JavaScript | 0 | 2018-07-06 |
 | ☁️ | [cos](https://github.com/bougieL/cos) | TypeScript | 0 | 2022-12-10 |
 | 📱 | [golearning_app](https://github.com/bougieL/golearning_app) | CSS | 0 | 2019-02-25 |
@@ -96,15 +96,15 @@ Batchfile    0.0%  ▏
 | 🧪 | [react-test](https://github.com/bougieL/react-test) | JavaScript | 0 | 2023-01-04 |
 | 🧾 | [react-typescript-start](https://github.com/bougieL/react-typescript-start) | JavaScript | 0 | 2019-05-22 |
 | 🤖 | [skills](https://github.com/bougieL/skills) | — | 0 | 2026-10-11 |
-| 🖥 | [terminal-manager-releases](https://github.com/bougieL/terminal-manager-releases) | — | 0 | 2026-10-29 |
+| 🖥 | [terminal-manager-releases](https://github.com/bougieL/terminal-manager-releases) | — | 0 | 2026-10-31 |
 | 🔁 | [utools-plugin-transfer](https://github.com/bougieL/utools-plugin-transfer) | TypeScript | 0 | 2022-09-23 |
 
 ### 🏷️ Releases
 
 | 仓库 | 版本 | 发布日期 |
 |---|---|---|
-| terminal-manager-releases | [v1.25.0](https://github.com/bougieL/terminal-manager-releases/releases/tag/v1.25.0) | 2026-10-29 |
-| chat-agent-releases | [v1.38.1](https://github.com/bougieL/chat-agent-releases/releases/tag/v1.38.1) | 2026-10-29 |
+| terminal-manager-releases | [v1.26.0](https://github.com/bougieL/terminal-manager-releases/releases/tag/v1.26.0) | 2026-10-31 |
+| chat-agent-releases | [v1.39.0](https://github.com/bougieL/chat-agent-releases/releases/tag/v1.39.0) | 2026-10-30 |
 
 ### 📈 GitHub Stats
 
