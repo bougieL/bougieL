@@ -9,10 +9,10 @@
 | 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 28 |
 | 👥 Followers | 55 | 👤 Following | 31 |
 | 📦 公开仓库 | 49 | 🔀 Fork | 24 |
-| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 590 |
+| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 594 |
 | 🚀 PR 总数 | 185 | ✅ 已合并 | 101 |
-| 📝 近一年提交 | 112 | 🎯 贡献仓库 | 8 |
-| 🔥 当前连续 | 25 天 | 🏅 最长连续 | 25 天 |
+| 📝 近一年提交 | 115 | 🎯 贡献仓库 | 8 |
+| 🔥 当前连续 | 26 天 | 🏅 最长连续 | 26 天 |
 | 📝 博客 | [bougiel.github.io](https://bougiel.github.io) | 📫 邮箱 | bougie.liu@qq.com |
 
 <!--START_SECTION:activity-->
@@ -21,34 +21,38 @@
 全部 push（UTC+8）：
 
 ```text
-03时  27  ████████████████████████  ← 博客 CI
+03时  29  ████████████████████████  ← 博客 CI
 04时   1  █  ← 博客 CI
+07时   1  █
 08时   1  █  ← 博客 CI
 09时   1  █
-15时   3  ███
-19时   9  ████████
+11时   3  ██
+15时   3  ██
+19时  10  ████████
 22时   1  █
 ```
 
 剔除博客 CI 后的真人提交：
 
 ```text
-09时   1  ███
-15时   3  ████████
-19时   9  ████████████████████████
-22时   1  ███
+07时   1  ██
+09时   1  ██
+11时   3  ███████
+15时   3  ███████
+19时  10  ████████████████████████
+22时   1  ██
 ```
 
 真人提交按星期（UTC+8）：
 
 ```text
-Monday     1  █████
-Tuesday    1  █████
-Wednesday  2  ██████████
-Thursday   2  ██████████
-Friday     1  █████
-Saturday   5  ████████████████████████
-Sunday     2  ██████████
+Monday     1  ████
+Tuesday    2  ████████
+Wednesday  2  ████████
+Thursday   2  ████████
+Friday     1  ████
+Saturday   5  ████████████████████
+Sunday     6  ████████████████████████
 ```
 <!--END_SECTION:activity-->
 
@@ -87,8 +91,8 @@ Batchfile    0.0%  ▏
 | 🧩 | [utools-plugin-sprite](https://github.com/bougieL/utools-plugin-sprite) | JavaScript | 1 | 2019-05-07 |
 | ⚡ | [vuepress-plugin-amp](https://github.com/bougieL/vuepress-plugin-amp) | — | 1 | 2019-12-05 |
 | 🧰 | [bougie-utils](https://github.com/bougieL/bougie-utils) | TypeScript | 0 | 2022-12-11 |
-| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-01 |
-| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-01 |
+| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-02 |
+| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-02 |
 | 🖌 | [bvas](https://github.com/bougieL/bvas) | JavaScript | 0 | 2018-07-06 |
 | ☁️ | [cos](https://github.com/bougieL/cos) | TypeScript | 0 | 2022-12-10 |
 | 📱 | [golearning_app](https://github.com/bougieL/golearning_app) | CSS | 0 | 2019-02-25 |
