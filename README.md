@@ -6,13 +6,13 @@
 
 | | | | |
 |---|---|---|---|
-| 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 28 |
-| 👥 Followers | 54 | 👤 Following | 32 |
-| 📦 公开仓库 | 49 | 🔀 Fork | 24 |
-| ✍️ 自有仓库 | 25 | 🔥 累计贡献 | 601 |
-| 🚀 PR 总数 | 185 | ✅ 已合并 | 102 |
-| 📝 近一年提交 | 122 | 🎯 贡献仓库 | 9 |
-| 🔥 当前连续 | 28 天 | 🏅 最长连续 | 28 天 |
+| 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 30 |
+| 👥 Followers | 57 | 👤 Following | 32 |
+| 📦 公开仓库 | 55 | 🔀 Fork | 24 |
+| ✍️ 自有仓库 | 31 | 🔥 累计贡献 | 813 |
+| 🚀 PR 总数 | 217 | ✅ 已合并 | 134 |
+| 📝 近一年提交 | 279 | 🎯 贡献仓库 | 15 |
+| 🔥 当前连续 | 33 天 | 🏅 最长连续 | 33 天 |
 | 📝 博客 | [bougiel.github.io](https://bougiel.github.io) | 📫 邮箱 | bougie.liu@qq.com |
 
 <!--START_SECTION:activity-->
@@ -21,38 +21,45 @@
 全部 push（UTC+8）：
 
 ```text
-03时  28  ████████████████████████  ← 博客 CI
+03时  31  ████████████████████████  ← 博客 CI
 04时   1  █  ← 博客 CI
 07时   1  █
-08时   1  █  ← 博客 CI
-09时   1  █
-11时   3  ███
-15时   3  ███
-19时  11  █████████
+11时  19  ███████████████
+12时   2  ██
+13时  10  ████████
+15时   4  ███
+19时  13  ██████████
+20时   2  ██
+21时   1  █
 22时   1  █
+23时   1  █
 ```
 
 剔除博客 CI 后的真人提交：
 
 ```text
-07时   1  ██
-09时   1  ██
-11时   3  ███████
-15时   3  ███████
-19时  11  ████████████████████████
-22时   1  ██
+07时   1  █
+11时  19  ████████████████████████
+12时   2  ███
+13时  10  █████████████
+15时   4  █████
+19时  13  ████████████████
+20时   2  ███
+21时   1  █
+22时   1  █
+23时   1  █
 ```
 
 真人提交按星期（UTC+8）：
 
 ```text
-Monday     2  ████████
-Tuesday    2  ████████
-Wednesday  2  ████████
-Thursday   2  ████████
-Friday     1  ████
-Saturday   5  ████████████████████
-Sunday     6  ████████████████████████
+Monday     2  ██
+Tuesday    3  ██
+Wednesday  2  ██
+Thursday   3  ██
+Friday    30  ████████████████████████
+Saturday   7  ██████
+Sunday     7  ██████
 ```
 <!--END_SECTION:activity-->
 
@@ -71,6 +78,7 @@ Vue          0.8%  ▏
 EJS          0.1%  ▏
 Shell        0.1%  ▏
 Makefile     0.1%  ▏
+Python       0.0%  ▏
 Dockerfile   0.0%  ▏
 Batchfile    0.0%  ▏
 ```
@@ -79,22 +87,28 @@ Batchfile    0.0%  ▏
 
 | | 仓库 | 语言 | ⭐ | 最近更新 |
 |---|---|---|---|---|
-| 🔊 | [tts-fluent](https://github.com/bougieL/tts-fluent) | TypeScript | 13 | 2023-03-26 |
+| 🔊 | [tts-fluent](https://github.com/bougieL/tts-fluent) | TypeScript | 14 | 2023-03-26 |
 | 📰 | [vuepress-plugin-rss](https://github.com/bougieL/vuepress-plugin-rss) | JavaScript | 3 | 2023-03-14 |
 | 🌈 | [bougie-design](https://github.com/bougieL/bougie-design) | TypeScript | 2 | 2023-01-26 |
 | 🐹 | [golearning](https://github.com/bougieL/golearning) | Go | 2 | 2019-02-25 |
 | 🗺 | [mymap](https://github.com/bougieL/mymap) | JavaScript | 2 | 2018-05-05 |
+| ⬇️ | [app-downloader](https://github.com/bougieL/app-downloader) | — | 1 | 2026-11-09 |
 | 🎨 | [canvasgallery](https://github.com/bougieL/canvasgallery) | HTML | 1 | 2018-06-25 |
-| 💬 | [chat-agent-releases](https://github.com/bougieL/chat-agent-releases) | — | 1 | 2026-11-04 |
+| 💬 | [chat-agent-releases](https://github.com/bougieL/chat-agent-releases) | — | 1 | 2026-11-09 |
 | 🗜 | [imagemin-sharp](https://github.com/bougieL/imagemin-sharp) | JavaScript | 1 | 2022-04-28 |
 | 🖼 | [puppeteer-prerenderer](https://github.com/bougieL/puppeteer-prerenderer) | TypeScript | 1 | 2022-12-10 |
 | 🧩 | [utools-plugin-sprite](https://github.com/bougieL/utools-plugin-sprite) | JavaScript | 1 | 2019-05-07 |
 | ⚡ | [vuepress-plugin-amp](https://github.com/bougieL/vuepress-plugin-amp) | — | 1 | 2019-12-05 |
 | 🧰 | [bougie-utils](https://github.com/bougieL/bougie-utils) | TypeScript | 0 | 2022-12-11 |
-| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-04 |
-| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-04 |
+| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-05 |
+| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-09 |
 | 🖌 | [bvas](https://github.com/bougieL/bvas) | JavaScript | 0 | 2018-07-06 |
 | ☁️ | [cos](https://github.com/bougieL/cos) | TypeScript | 0 | 2022-12-10 |
+| 🧊 | [gha-sandbox-2](https://github.com/bougieL/gha-sandbox-2) | — | 0 | 2026-11-06 |
+| 🔬 | [gha-sandbox-3](https://github.com/bougieL/gha-sandbox-3) | — | 0 | 2026-11-06 |
+| 🔭 | [gha-sandbox-4](https://github.com/bougieL/gha-sandbox-4) | — | 0 | 2026-11-06 |
+| 🧬 | [gha-sandbox-5](https://github.com/bougieL/gha-sandbox-5) | — | 0 | 2026-11-06 |
+| 🏅 | [github-achievements-lab](https://github.com/bougieL/github-achievements-lab) | Python | 0 | 2026-11-06 |
 | 📱 | [golearning_app](https://github.com/bougieL/golearning_app) | CSS | 0 | 2019-02-25 |
 | 💼 | [leetcode](https://github.com/bougieL/leetcode) | JavaScript | 0 | 2023-05-15 |
 | 🛰 | [mock_server](https://github.com/bougieL/mock_server) | JavaScript | 0 | 2018-11-02 |
@@ -102,15 +116,15 @@ Batchfile    0.0%  ▏
 | 🧪 | [react-test](https://github.com/bougieL/react-test) | JavaScript | 0 | 2023-01-04 |
 | 🧾 | [react-typescript-start](https://github.com/bougieL/react-typescript-start) | JavaScript | 0 | 2019-05-22 |
 | 🤖 | [skills](https://github.com/bougieL/skills) | — | 0 | 2026-10-11 |
-| 🖥 | [terminal-manager-releases](https://github.com/bougieL/terminal-manager-releases) | — | 0 | 2026-11-05 |
+| 🖥 | [terminal-manager-releases](https://github.com/bougieL/terminal-manager-releases) | — | 0 | 2026-11-09 |
 | 🔁 | [utools-plugin-transfer](https://github.com/bougieL/utools-plugin-transfer) | TypeScript | 0 | 2022-09-23 |
 
 ### 🏷️ Releases
 
 | 仓库 | 版本 | 发布日期 |
 |---|---|---|
-| terminal-manager-releases | [v1.27.0](https://github.com/bougieL/terminal-manager-releases/releases/tag/v1.27.0) | 2026-11-05 |
-| chat-agent-releases | [v1.41.0](https://github.com/bougieL/chat-agent-releases/releases/tag/v1.41.0) | 2026-11-04 |
+| terminal-manager-releases | [v1.27.2](https://github.com/bougieL/terminal-manager-releases/releases/tag/v1.27.2) | 2026-11-09 |
+| chat-agent-releases | [v1.44.0](https://github.com/bougieL/chat-agent-releases/releases/tag/v1.44.0) | 2026-11-09 |
 
 ### 📈 GitHub Stats
 
