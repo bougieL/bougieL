@@ -7,12 +7,12 @@
 | | | | |
 |---|---|---|---|
 | 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 30 |
-| 👥 Followers | 57 | 👤 Following | 32 |
+| 👥 Followers | 56 | 👤 Following | 32 |
 | 📦 公开仓库 | 55 | 🔀 Fork | 24 |
-| ✍️ 自有仓库 | 31 | 🔥 累计贡献 | 813 |
+| ✍️ 自有仓库 | 31 | 🔥 累计贡献 | 815 |
 | 🚀 PR 总数 | 217 | ✅ 已合并 | 134 |
-| 📝 近一年提交 | 279 | 🎯 贡献仓库 | 15 |
-| 🔥 当前连续 | 33 天 | 🏅 最长连续 | 33 天 |
+| 📝 近一年提交 | 281 | 🎯 贡献仓库 | 15 |
+| 🔥 当前连续 | 34 天 | 🏅 最长连续 | 34 天 |
 | 📝 博客 | [bougiel.github.io](https://bougiel.github.io) | 📫 邮箱 | bougie.liu@qq.com |
 
 <!--START_SECTION:activity-->
@@ -21,17 +21,17 @@
 全部 push（UTC+8）：
 
 ```text
-03时  31  ████████████████████████  ← 博客 CI
+03时  30  ████████████████████████  ← 博客 CI
 04时   1  █  ← 博客 CI
 07时   1  █
 11时  19  ███████████████
 12时   2  ██
 13时  10  ████████
 15时   4  ███
-19时  13  ██████████
+19时  14  ███████████
 20时   2  ██
 21时   1  █
-22时   1  █
+22时   2  ██
 23时   1  █
 ```
 
@@ -43,18 +43,18 @@
 12时   2  ███
 13时  10  █████████████
 15时   4  █████
-19时  13  ████████████████
+19时  14  ██████████████████
 20时   2  ███
 21时   1  █
-22时   1  █
+22时   2  ███
 23时   1  █
 ```
 
 真人提交按星期（UTC+8）：
 
 ```text
-Monday     2  ██
-Tuesday    3  ██
+Monday     3  ██
+Tuesday    4  ███
 Wednesday  2  ██
 Thursday   3  ██
 Friday    30  ████████████████████████
@@ -100,8 +100,8 @@ Batchfile    0.0%  ▏
 | 🧩 | [utools-plugin-sprite](https://github.com/bougieL/utools-plugin-sprite) | JavaScript | 1 | 2019-05-07 |
 | ⚡ | [vuepress-plugin-amp](https://github.com/bougieL/vuepress-plugin-amp) | — | 1 | 2019-12-05 |
 | 🧰 | [bougie-utils](https://github.com/bougieL/bougie-utils) | TypeScript | 0 | 2022-12-11 |
-| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-05 |
-| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-09 |
+| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-10 |
+| 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-10 |
 | 🖌 | [bvas](https://github.com/bougieL/bvas) | JavaScript | 0 | 2018-07-06 |
 | ☁️ | [cos](https://github.com/bougieL/cos) | TypeScript | 0 | 2022-12-10 |
 | 🧊 | [gha-sandbox-2](https://github.com/bougieL/gha-sandbox-2) | — | 0 | 2026-11-06 |
