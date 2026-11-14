@@ -9,10 +9,10 @@
 | 🗓️ 注册于 | 2018-02-03 | ⭐ Stars | 30 |
 | 👥 Followers | 56 | 👤 Following | 32 |
 | 📦 公开仓库 | 55 | 🔀 Fork | 24 |
-| ✍️ 自有仓库 | 31 | 🔥 累计贡献 | 815 |
-| 🚀 PR 总数 | 217 | ✅ 已合并 | 134 |
-| 📝 近一年提交 | 281 | 🎯 贡献仓库 | 15 |
-| 🔥 当前连续 | 34 天 | 🏅 最长连续 | 34 天 |
+| ✍️ 自有仓库 | 31 | 🔥 累计贡献 | 823 |
+| 🚀 PR 总数 | 217 | ✅ 已合并 | 136 |
+| 📝 近一年提交 | 288 | 🎯 贡献仓库 | 16 |
+| 🔥 当前连续 | 0 天 | 🏅 最长连续 | 35 天 |
 | 📝 博客 | [bougiel.github.io](https://bougiel.github.io) | 📫 邮箱 | bougie.liu@qq.com |
 
 <!--START_SECTION:activity-->
@@ -21,16 +21,18 @@
 全部 push（UTC+8）：
 
 ```text
-03时  30  ████████████████████████  ← 博客 CI
-04时   1  █  ← 博客 CI
+03时  28  ████████████████████████  ← 博客 CI
+04时   2  ██  ← 博客 CI
 07时   1  █
-11时  19  ███████████████
+11时  19  ████████████████
 12时   2  ██
-13时  10  ████████
+13时  10  █████████
 15时   4  ███
-19时  14  ███████████
+16时   1  █
+17时   1  █
+19时  14  ████████████
 20时   2  ██
-21时   1  █
+21时   2  ██
 22时   2  ██
 23时   1  █
 ```
@@ -43,9 +45,11 @@
 12时   2  ███
 13时  10  █████████████
 15时   4  █████
+16时   1  █
+17时   1  █
 19时  14  ██████████████████
 20时   2  ███
-21时   1  █
+21时   2  ███
 22时   2  ███
 23时   1  █
 ```
@@ -55,8 +59,8 @@
 ```text
 Monday     3  ██
 Tuesday    4  ███
-Wednesday  2  ██
-Thursday   3  ██
+Wednesday  3  ██
+Thursday   5  ████
 Friday    30  ████████████████████████
 Saturday   7  ██████
 Sunday     7  ██████
@@ -92,7 +96,7 @@ Batchfile    0.0%  ▏
 | 🌈 | [bougie-design](https://github.com/bougieL/bougie-design) | TypeScript | 2 | 2023-01-26 |
 | 🐹 | [golearning](https://github.com/bougieL/golearning) | Go | 2 | 2019-02-25 |
 | 🗺 | [mymap](https://github.com/bougieL/mymap) | JavaScript | 2 | 2018-05-05 |
-| ⬇️ | [app-downloader](https://github.com/bougieL/app-downloader) | — | 1 | 2026-11-09 |
+| ⬇️ | [app-downloader](https://github.com/bougieL/app-downloader) | — | 1 | 2026-11-12 |
 | 🎨 | [canvasgallery](https://github.com/bougieL/canvasgallery) | HTML | 1 | 2018-06-25 |
 | 💬 | [chat-agent-releases](https://github.com/bougieL/chat-agent-releases) | — | 1 | 2026-11-09 |
 | 🗜 | [imagemin-sharp](https://github.com/bougieL/imagemin-sharp) | JavaScript | 1 | 2022-04-28 |
@@ -100,7 +104,7 @@ Batchfile    0.0%  ▏
 | 🧩 | [utools-plugin-sprite](https://github.com/bougieL/utools-plugin-sprite) | JavaScript | 1 | 2019-05-07 |
 | ⚡ | [vuepress-plugin-amp](https://github.com/bougieL/vuepress-plugin-amp) | — | 1 | 2019-12-05 |
 | 🧰 | [bougie-utils](https://github.com/bougieL/bougie-utils) | TypeScript | 0 | 2022-12-11 |
-| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-10 |
+| 👤 | [bougieL](https://github.com/bougieL/bougieL) | — | 0 | 2026-11-11 |
 | 📝 | [bougieL.github.io](https://github.com/bougieL/bougieL.github.io) | HTML | 0 | 2026-11-10 |
 | 🖌 | [bvas](https://github.com/bougieL/bvas) | JavaScript | 0 | 2018-07-06 |
 | ☁️ | [cos](https://github.com/bougieL/cos) | TypeScript | 0 | 2022-12-10 |
